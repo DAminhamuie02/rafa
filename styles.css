@@ -94,3 +94,12 @@ body {
 .contaiener__descricao {
     padding: 2em;
 }
+
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
+}
+
+.contaiener__descricao{
+    padding: 2em;
+}
